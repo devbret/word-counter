@@ -1,3 +1,3 @@
 # Word Counter
 
-Enter text into the field, and press Submit to return your results. Which includes the number of words and unique words used.
+Enter text into the field provided, then press Submit to return your results; which includes the (1) total number of words and (2) number of unique words used.
