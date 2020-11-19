@@ -36,8 +36,8 @@ function main() {
                 }
                 return total;
             },[]);
-            //Display the final counts for both words and unique words.
-            output.textContent = `Total Words: ${data.length} and Total Unique Words: ${uniqueWords.length}`;
+            //Display the final counts for both total words overall and total unique words.
+            output.innerHTML = `Your submitted text has a total of <b>${data.length}</b> words overall and a total of <b>${uniqueWords.length}</b> unique words.`;
         }
     });
 }
