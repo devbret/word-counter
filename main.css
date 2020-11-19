@@ -6,7 +6,7 @@
     box-sizing: border-box;
 }
 header {
-    width: 300px;
+    width: 500px;
     margin: 25px auto 0px auto;
     padding: 15px;
     display: flex;
@@ -16,7 +16,7 @@ header {
     text-align: center;
 }
 section {
-    width: 300px;
+    width: 500px;
     padding: 15px;
     margin: auto;
     border: 1px solid black;
@@ -28,7 +28,7 @@ section {
 }
 footer {
     padding: 15px;
-    width: 300px;
+    width: 500px;
     margin: auto;
     text-align: center;
 }
@@ -38,7 +38,7 @@ footer {
     width: 90%;
 }
 #submit {
-    margin: 0px 0px 15px 0px;
+    margin: 15px 0px;
     padding: 6px 8px;
     border: 1px solid black;
 }
